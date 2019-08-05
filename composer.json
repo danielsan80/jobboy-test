@@ -15,5 +15,10 @@
         "symfony/phpunit-bridge": "*",
         "mockery/mockery": "*",
         "nesbot/carbon": "^2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.x-dev"
+        }
     }
 }
