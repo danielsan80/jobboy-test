@@ -1,5 +1,5 @@
 {
-    "name": "dansan/jobboy-test",
+    "name": "dansan/jobboy-test-pack",
     "description": "Just a pack to share test dependencies between all JobBoy repositories",
     "type": "metapackage",
     "license": "MIT",
