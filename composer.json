@@ -14,10 +14,10 @@
         "symfony/dotenv": "^4.3||^5.0",
         "mockery/mockery": "*",
         "nesbot/carbon": "^2.0",
-        "phpunit/phpunit": "^8.5",
+        "phpunit/phpunit": "^8.5||^9.0||",
         "symfony/browser-kit": "^4.3||^5.0",
         "symfony/css-selector": "^4.3||^5.0",
-        "symfony/phpunit-bridge": "^7.0"
+        "symfony/phpunit-bridge": "^6.0||^7.0||^8.0"
     },
     "extra": {
         "branch-alias": {
